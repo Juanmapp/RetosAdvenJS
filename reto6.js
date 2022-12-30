@@ -47,5 +47,6 @@ function createCube(size) {
     return [...top, ...bottom].join("\n")
 }
 
-console.log(createCube(25))
+console.log(createCube(3))
+
 
